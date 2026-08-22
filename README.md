@@ -146,25 +146,37 @@ alt="Darshan's contribution snake"
 
 ## 💻 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/darshangavate/PROJECT_ONE">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=darshangavate&repo=PROJECT_ONE&theme=tokyonight&hide_border=true"
-  />
+### 🔍 [veriLens](https://github.com/darshangavate/veriLens)
+
+Fact-checking and credibility analysis platform.
+
+**Stack:** React • Django • JavaScript
+
+<a href="https://github.com/darshangavate/veriLens">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-<a href="https://github.com/darshangavate/PROJECT_TWO">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=darshangavate&repo=PROJECT_TWO&theme=tokyonight&hide_border=true"
-  />
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 [Skill-stream](https://github.com/darshangavate/Skill-stream)
+
+Adaptive MERN-based skill-learning platform with performance-driven personalization.
+
+**Stack:** MERN • JavaScript
+
+<a href="https://github.com/darshangavate/Skill-stream">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
+</td>
+</tr>
+</table>
 
 ## 🌐 Connect With Me
 
